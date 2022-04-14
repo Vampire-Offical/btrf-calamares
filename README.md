@@ -1,1 +1,1 @@
-# Alci Calamares config
+# btrfs Calamares config
