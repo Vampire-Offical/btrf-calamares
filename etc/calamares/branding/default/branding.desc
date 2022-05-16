@@ -127,7 +127,7 @@ strings:
     shortVersion:        1
     versionedName:       Vampire
     shortVersionedName:  Vampire
-    bootloaderEntryName: Generic
+    bootloaderEntryName: Vampire
 
 # These images are loaded from the branding module directory.
 #
@@ -161,7 +161,7 @@ images:
     productIcon:         "squid.png"
     productLogo:         "squid.png"
     # productWallpaper:    "wallpaper.png"
-    productWelcome:      "2-alci.png"
+    #productWelcome:      "2-alci.png"
 
 # Colors for text and background components.
 #
