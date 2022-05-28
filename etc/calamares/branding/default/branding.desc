@@ -160,8 +160,8 @@ images:
     # productBanner:       "banner.png"
     productIcon:         "squid.png"
     productLogo:         "squid.png"
-    # productWallpaper:    "wallpaper.png"
-    #productWelcome:      "2-alci.png"
+    productWallpaper:    "wallpaper1.png"
+    productWelcome:      "wallpaper1.png"
 
 # Colors for text and background components.
 #
