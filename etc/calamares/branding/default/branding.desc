@@ -39,7 +39,7 @@ welcomeExpandingLogo:   true
 #  - "normal" or unset, expand as needed, use *windowSize*
 #  - "fullscreen", start as large as possible, ignore *windowSize*
 #  - "noexpand", don't expand automatically, use *windowSize*
-windowExpanding:    normal
+windowExpanding:    fullscreen
 
 # Size of Calamares window, expressed as w,h. Both w and h
 # may be either pixels (suffix px) or font-units (suffix em).
@@ -54,7 +54,7 @@ windowSize: 1024px,735px
 # Whether "center" actually works does depend on the window
 # manager in use (and only makes sense if you're not using
 # *windowExpanding* set to "fullscreen").
-windowPlacement: center
+windowPlacement: fullscreen
 
 ### PANELS CONFIGURATION
 #
